@@ -1,0 +1,29 @@
+<openerp>
+    <data>
+        <template id="snippets" inherit_id="website.snippets" name="Clean Theme snippets">
+            <xpath expr="//div[@id='snippet_structure']" position="inside">
+                <div>
+                    <div class="oe_snippet_thumbnail">
+                    <img class="oe_snippet_thumbnail_img" src="/dummy_theme/static/img/Kaiosamanorte.png"/>
+                    <span class="oe_snippet_thumbnail_title">SNIP IT!</span>
+                    </div>
+                    <section class="oe_snippet_body fw_categories">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-md-12 text-center mt32 mb32">
+                                    <h2>Este es una Tap Tap con Pum Pum</h2>
+                                    <h3 class="text-muted "> Petalo todo</h3>
+                                    <p> Moda ibiza locomia, sexy piheiro locomia</p>
+                                    <div class="dummy-boy"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                
+                </div>
+                
+            </xpath>
+        </template>
+
+    </data>
+</openerp>

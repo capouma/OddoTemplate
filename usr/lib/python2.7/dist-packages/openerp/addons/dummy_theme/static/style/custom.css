@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18-mar-2015, 10:39:29
+    Author     : findag
+*/
+
+h1 {
+  color: #0066cc;
+}
+span {
+  color: #0066cc;
+  border: 2px solid black;
+  background-color: #00f8f8;
+}
+
+.bg-blue {
+  background: #3498db;
+}
+.bg-green {
+  background: #2ecc71;
+}
+.h2 {
+  color: white;
+}
+
+text-purple { color: #2ecc71; }
+.bg-yellow { background-color: #2ecc71;}
+.text-light-bg-dark { color: #eee; background-color: #222;}
+
+.dummy-boy {
+  background-image: url("/dummy_theme/static/img/Kaiosamanorte.png");
+  width:500px;
+  height: 500px;
+  
+}
